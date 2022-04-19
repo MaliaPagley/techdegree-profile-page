@@ -93,6 +93,7 @@ footer .footer-image{
   background-color: #222;
   color: rgb(238, 216, 236);
 }
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -114,7 +115,8 @@ footer .footer-image{
   border-radius: 7px;
   transition: all 0.5s;
 }
-div.row {
+
+.row {
   height: 10em;
   position: relative;
   background: #fff;
